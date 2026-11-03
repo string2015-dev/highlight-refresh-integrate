@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="assets/logo.png" alt="HRI Insight Bridge 로고" width="120" />
 
